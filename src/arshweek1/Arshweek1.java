@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Ankush
  */
-public class Arshweek1 {
+public class Arshweek1 {mnzdknsk
 
     /**
      * @param args the command line arguments
