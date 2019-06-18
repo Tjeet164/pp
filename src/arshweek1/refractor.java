@@ -17,6 +17,8 @@ public class refractor {
      */
     public String getName() {
         return name;
+        jdijsijdizKX
+                fhisodmsoo
     }
 
     /**
